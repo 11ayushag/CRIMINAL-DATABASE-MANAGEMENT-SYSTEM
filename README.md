@@ -1,0 +1,2 @@
+# CRIMINAL-DATABASE-MANAGEMENT-SYSTEM
+The main objective of the project on "Criminal Database Management System" is to manage the detail of Criminal Id, Name, Age, Sex, Height, Identification Mark, Crime Done, and Inspector Incharge. It manages all the information criminal and their record. The project is totally built at administrative end and  thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the data of criminals easily.
